@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title">
+  <title id="title">팽도리 스타일 파란 인형</title>
+  <rect width="320" height="320" rx="40" fill="#f5fbff"/>
+  <path d="M91 148c0-60 38-104 69-104s69 44 69 104c0 76-36 126-69 126S91 224 91 148z" fill="#4f9fe8" stroke="#12386b" stroke-width="8"/>
+  <path d="M116 145c11-27 41-42 44-42s33 15 44 42c2 47-18 78-44 78s-46-31-44-78z" fill="#ffffff" stroke="#12386b" stroke-width="8"/>
+  <path d="M147 151h26l-13 13z" fill="#ffd84d" stroke="#12386b" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="132" cy="125" r="11" fill="#172033"/>
+  <circle cx="188" cy="125" r="11" fill="#172033"/>
+  <path d="M92 174c-28 13-38 38-23 64 27-6 44-28 39-56zm136 0c28 13 38 38 23 64-27-6-44-28-39-56z" fill="#4f9fe8" stroke="#12386b" stroke-width="8" stroke-linejoin="round"/>
+  <ellipse cx="160" cy="286" rx="72" ry="16" fill="#12386b" opacity=".12"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title">
+  <title id="title">슬로건 타월</title>
+  <rect width="320" height="320" rx="18" fill="#111"/>
+  <rect x="44" y="94" width="232" height="128" rx="12" fill="url(#g)" stroke="#fff" stroke-width="6"/>
+  <path d="M54 111h222M54 205h222" stroke="#fff" stroke-width="5" opacity=".5"/>
+  <text x="160" y="157" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="800">COMEBACK</text>
+  <text x="160" y="187" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="15" font-weight="700">SLOGAN TOWEL</text>
+  <defs>
+    <linearGradient id="g" x1="44" x2="276" y1="94" y2="222">
+      <stop stop-color="#2587e3"/>
+      <stop offset=".5" stop-color="#6d5dfc"/>
+      <stop offset="1" stop-color="#ff3f87"/>
+    </linearGradient>
+  </defs>
+</svg>

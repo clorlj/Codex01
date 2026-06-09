@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title">
+  <title id="title">꼬부기 스타일 파란 인형</title>
+  <rect width="320" height="320" rx="40" fill="#eef9ff"/>
+  <circle cx="160" cy="150" r="84" fill="#8fd4ff" stroke="#12386b" stroke-width="8"/>
+  <path d="M92 222c32-34 125-34 157 0-10 35-44 58-79 58s-68-23-78-58z" fill="#fff3c4" stroke="#12386b" stroke-width="8"/>
+  <circle cx="126" cy="142" r="12" fill="#172033"/>
+  <circle cx="194" cy="142" r="12" fill="#172033"/>
+  <path d="M139 174c17 14 42 14 59 0" fill="none" stroke="#172033" stroke-width="8" stroke-linecap="round"/>
+  <path d="M76 137c-25 2-40 19-39 42 25 3 45-11 51-35zm168 0c25 2 40 19 39 42-25 3-45-11-51-35z" fill="#8fd4ff" stroke="#12386b" stroke-width="8" stroke-linejoin="round"/>
+  <ellipse cx="160" cy="284" rx="70" ry="16" fill="#12386b" opacity=".12"/>
+</svg>

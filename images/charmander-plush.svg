@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title">
+  <title id="title">파이리 스타일 주황 인형</title>
+  <rect width="320" height="320" rx="40" fill="#fff6ec"/>
+  <circle cx="153" cy="151" r="82" fill="#ffad63" stroke="#12386b" stroke-width="8"/>
+  <path d="M120 218c26 28 80 28 106 0 4 46-22 74-53 74s-57-28-53-74z" fill="#ffe1a6" stroke="#12386b" stroke-width="8"/>
+  <circle cx="121" cy="143" r="12" fill="#172033"/>
+  <circle cx="189" cy="143" r="12" fill="#172033"/>
+  <path d="M136 176c15 13 39 13 54 0" fill="none" stroke="#172033" stroke-width="8" stroke-linecap="round"/>
+  <path d="M229 231c38-9 49-42 32-76 28 17 36 46 26 72-11 29-41 46-70 39z" fill="#ffad63" stroke="#12386b" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M274 150c-14-5-22-18-16-33 15 5 24 17 16 33z" fill="#ffd84d" stroke="#ff7b7b" stroke-width="6"/>
+  <ellipse cx="160" cy="296" rx="74" ry="14" fill="#12386b" opacity=".12"/>
+</svg>

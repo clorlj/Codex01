@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title">
+  <title id="title">컵홀더 팩</title>
+  <rect width="320" height="320" rx="18" fill="#111"/>
+  <path d="M93 77h134l-18 196H111z" fill="#fff" stroke="#fff" stroke-width="8"/>
+  <path d="M107 116h106l-9 100H116z" fill="#f3fbff" stroke="#2587e3" stroke-width="7"/>
+  <path d="M122 154h76M132 178h56" stroke="#ff3f87" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="160" cy="56" r="24" fill="#6d5dfc"/>
+  <text x="160" y="250" text-anchor="middle" fill="#111" font-family="Arial, sans-serif" font-size="18" font-weight="800">B-DAY CAFE</text>
+</svg>

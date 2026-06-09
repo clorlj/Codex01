@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title">
+  <title id="title">포토카드 홀더 북</title>
+  <rect width="320" height="320" rx="18" fill="#f5f5f5"/>
+  <rect x="74" y="40" width="172" height="240" rx="16" fill="#111" stroke="#222" stroke-width="6"/>
+  <rect x="96" y="70" width="128" height="164" rx="10" fill="#fff"/>
+  <path d="M116 206c15-40 74-40 88 0" fill="#dfefff"/>
+  <circle cx="160" cy="132" r="34" fill="#ff3f87"/>
+  <path d="M127 82h66m-66 152h66" stroke="#2587e3" stroke-width="8" stroke-linecap="round"/>
+  <text x="160" y="265" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700">FANCAM BOOK</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title">
+  <title id="title">잠만보 스타일 큰 인형</title>
+  <rect width="320" height="320" rx="40" fill="#eef9ff"/>
+  <path d="M86 128c0-63 148-63 148 0 38 20 55 57 48 98-8 49-52 78-122 78S46 275 38 226c-7-41 10-78 48-98z" fill="#5b83a6" stroke="#12386b" stroke-width="8" stroke-linejoin="round"/>
+  <ellipse cx="160" cy="204" rx="86" ry="78" fill="#fff0cb" stroke="#12386b" stroke-width="8"/>
+  <path d="m105 113-25-29 40 8zm110 0 25-29-40 8z" fill="#5b83a6" stroke="#12386b" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M115 145h31m74 0h-31" stroke="#172033" stroke-width="8" stroke-linecap="round"/>
+  <path d="M142 176c15 12 41 12 56 0" fill="none" stroke="#172033" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="160" cy="307" rx="92" ry="12" fill="#12386b" opacity=".12"/>
+</svg>

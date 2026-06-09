@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title">
+  <title id="title">피카츄 스타일 노란 인형</title>
+  <rect width="320" height="320" rx="40" fill="#e8f3ff"/>
+  <path d="M89 83 58 31l59 31zm142 0 31-52-59 31z" fill="#ffd84d" stroke="#12386b" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="160" cy="166" r="95" fill="#ffd84d" stroke="#12386b" stroke-width="8"/>
+  <circle cx="124" cy="145" r="13" fill="#172033"/>
+  <circle cx="196" cy="145" r="13" fill="#172033"/>
+  <circle cx="98" cy="180" r="18" fill="#ff7b7b"/>
+  <circle cx="222" cy="180" r="18" fill="#ff7b7b"/>
+  <path d="M151 168h18l-9 9z" fill="#172033"/>
+  <path d="M139 194c18 18 43 18 61 0" fill="none" stroke="#172033" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="160" cy="268" rx="70" ry="18" fill="#12386b" opacity=".12"/>
+</svg>
